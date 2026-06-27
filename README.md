@@ -1,6 +1,7 @@
 Hi, I'm RAM SHIV
 
 Java Backend Developer specializing in Spring Boot, REST APIs, Spring Security, and MySQL.
+
 Currently seeking Backend Developer opportunities.
 
 Tech Stack:
