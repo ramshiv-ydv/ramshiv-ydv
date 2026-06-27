@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm RAM SHIV
 
-<!--
-**ramshiv-ydv/ramshiv-ydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer specializing in Spring Boot, REST APIs, Spring Security, and MySQL.
 
-Here are some ideas to get you started:
+Currently seeking Backend Developer opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+• Java
+• Spring Boot
+• Hibernate & JPA
+• MySQL
+• Spring Security & JWT
+• Maven
+• Git & GitHub
